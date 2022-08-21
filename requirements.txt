@@ -16,3 +16,4 @@ opencv-python-headless
 nltk
 Pillow
 keras
+tensorflow_hub
